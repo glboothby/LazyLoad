@@ -14,3 +14,5 @@ To use, create a div to holder the content with an id of "lazyLoadHolder".
 Call the function with StartLazyLoad()
 
 This will then load sections defined in getSections() JSON object.
+
+See an example at http://www.codehack.uk/Home/LazyLoad
